@@ -1,0 +1,27 @@
+{
+  "id": "68892be08535481644a0e822",
+  "title": "Welcome to CTD's Python Essentials Curriculum!",
+  "description": "No description available",
+  "learningObjectives": [
+    "No learning objectives"
+  ],
+  "finalProjectDetails": {
+    "overview": "No final project specified.",
+    "planningResources": [],
+    "submissionInstructions": "No submission instructions provided.",
+    "requirements": [
+      "No requirements specified."
+    ]
+  },
+  "createdBy": {
+    "name": "Tammam Alwafai",
+    "githubUsername": "1992tw"
+  },
+  "contributors": [],
+  "status": "pending",
+  "originalGithubUrl": "https://github.com/Code-the-Dream-School/python-essentials",
+  "remoteGithubUrl": "https://github.com/testo-org-101/welcome-to-ctd-s-python-essentials-curriculum",
+  "createdAt": "2025-07-29T20:15:28.640Z",
+  "updatedAt": "2025-07-29T20:17:14.084Z",
+  "lessonCount": 16
+}
